@@ -1,0 +1,3 @@
+while true do
+game.ReplicatedSTROge.MaiEvent:P1reServer("STomp")
+end
